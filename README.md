@@ -5,7 +5,8 @@ A modern, responsive, and feature-rich **Personal Budget Planner** web applicati
 ---
 
 ## 🚀 Live Demo & Repository
-- **Live Application**: Built and ready for deployment on GitHub Pages / Web Hosting.
+- **Live Application**: [https://surya-nandini0105.github.io/Personal-Budget-Planner/](https://surya-nandini0105.github.io/Personal-Budget-Planner/)
+- **GitHub Repository**: [https://github.com/Surya-Nandini0105/Personal-Budget-Planner](https://github.com/Surya-Nandini0105/Personal-Budget-Planner)
 - **Platform**: Web (Responsive across Desktop, Tablet, and Mobile).
 - **Currency**: Indian Rupee (`₹`).
 
