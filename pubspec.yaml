@@ -1,0 +1,26 @@
+name: personal_budget_planner
+description: "Personal Budget Planner - A complete finance management application"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.3.4
+  fl_chart: ^0.70.2
+  intl: ^0.20.2
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
